@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shady Hani</h1>
 <h3 align="center">A passionate Software Developer studying Computer Science and Engineering from Egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShadyH20&label=Profile%20views&color=0e75b6&style=flat" alt="ShadyH20" /> </p>
+
 - 📫 How to reach me **shady.hani1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
