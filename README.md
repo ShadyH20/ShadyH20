@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shady Hani</h1>
-<h3 align="center">A passionate web and app developer from Egypt</h3>
+<h3 align="center">A passionate Software Developer studying Computer Science and Engineering from Egypt</h3>
 
 - 📫 How to reach me **shady.hani1@gmail.com**
 
